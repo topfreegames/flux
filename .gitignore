@@ -38,7 +38,6 @@ stage
 # Specific to this project
 vendor/*
 !vendor/manifest
-build/
 /cache/*
 testdata/helloworld/helloworld-linux-amd64
 testdata/helloworld/.helloworld
